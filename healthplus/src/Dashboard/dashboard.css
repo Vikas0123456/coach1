@@ -1,0 +1,21 @@
+.dashboard{
+    background-color: rgb(233, 236, 236);
+    margin-left: 100px;
+    width: 100%;
+    max-width: 100%;
+    overflow-y: hidden;
+   }
+    
+.graph-admin{
+      width: 900px;
+       height: 400px;
+       margin-left: 20px;
+       margin-top: 10px;
+      }
+    
+.dashboard-table{
+       margin-left: 40px;
+       margin-top: 10px;
+      }
+
+      
